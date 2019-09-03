@@ -3,9 +3,9 @@
 
 #### Repo for 5th place solution for WNS Hackathon on AnalyticsVidhya
 
-> 1. Refer to 'global var creation' directory for all data preparation codes
-> 2. models/ directory has all all the models used - 7LGBMs, 2 Catboost, 1 extratrees
-> 3. GMean/ has the final ensemble code for geometric mean which gave the best score
+> 1. global var creation/ : directory for all data preparation codes
+> 2. models/: directory has all all the models used - 7LGBMs, 2 Catboost, 1 extratrees
+> 3. GMean/ : Final ensemble code for geometric mean which gave the best score
 
 ### Final Standing (amongst >6.5k participants): 
 
