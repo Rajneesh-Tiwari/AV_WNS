@@ -1,4 +1,14 @@
-# AV_WNS
-Repo for 5th place solution for WNS Hackathon on AnalyticsVidhya
+### AV_WNS
+- Repo for 5th place solution for WNS Hackathon on AnalyticsVidhya
 
-![End to end flow diagram](C:\Users\EIAJRTW\OneDrive - Ericsson AB\Personal\AV\wns\final submit\data_prep_codes_FINAL_1.2\data_prep_codes\GithubReadme.png)
+- 1. Refer to 'global var creation' directory for all data preparation codes
+- 2. models/ directory has all all the models used - 7LGBMs, 2 Catboost, 1 extratrees
+- 3. GMean/ has the final ensemble code for geometric mean which gave the best score
+- 4. Document: Report prepared for Analytics Vidhya
+
+### Final Standing: 
+
+- Public: 5th Rank (LB: 0.7588627879)
+- Private 5th Rank (LB: 0.7510770755)
+
+<img width="631" alt="GithubReadme" src="https://user-images.githubusercontent.com/16912628/64160483-a52b4b80-ce59-11e9-9724-d24dda90a1a7.png">
