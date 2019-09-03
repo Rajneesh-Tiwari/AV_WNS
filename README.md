@@ -1,4 +1,4 @@
-### AV_WNS: 
+### AV WNS Hackathon: 
 - WNS Hackathon held on AV (Sept 2019) (Link: https://datahack.analyticsvidhya.com/contest/wns-analytics-wizard-2019/)
 
 #### Repo for 5th place solution for WNS Hackathon on AnalyticsVidhya
@@ -7,7 +7,7 @@
 > 2. models/ directory has all all the models used - 7LGBMs, 2 Catboost, 1 extratrees
 > 3. GMean/ has the final ensemble code for geometric mean which gave the best score
 
-### Final Standing: 
+### Final Standing (amongst >6.5k participants): 
 
 - Public: 5th Rank (LB: 0.7588627879)
 - Private 5th Rank (LB: 0.7510770755)
